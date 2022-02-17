@@ -66,6 +66,7 @@ case "$STACK" in
       libnss3
       libsm6
       libfribidi-dev
+      libffi-dev
       libx11-xcb1
       libxcomposite1
       libxcursor1
